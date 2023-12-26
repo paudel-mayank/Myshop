@@ -16,7 +16,7 @@ const MainHeader = () => {
                         <p> Home</p>
                         <p> Contact</p>
                         <p> About </p>
-                        <p> Sign Up</p>
+                        {/* <p> Sign Up</p> */}
                     </div>
                     <div className='flex justify-around items-center gap-5'>
                         <div className='relative inline-block'>

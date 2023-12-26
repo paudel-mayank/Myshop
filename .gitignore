@@ -4,6 +4,9 @@ package-lock.json
 /shop/.gitignore
 /*package-lock.json
 /shop/yarn.lock
+/.prettierignore
+
+
 
 # Logs
 logs
